@@ -1,0 +1,27 @@
+{
+  "name": "react-pwa-ts-cone", 
+  "description": "React + Typescript + PWA template",
+  "main": "src/index.tsx",
+  "repository": "https://github.com/millenagm/react-typescript-cone",
+  "author": "Millena Galvão Matos <millena.gmatos@gmail.com>",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "react-scripts-ts": "3.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.12.0",
+    "@types/react": "^16.8.9",
+    "@types/react-dom": "^16.8.3",
+    "typescript": "^3.3.4000"
+  }
+}
